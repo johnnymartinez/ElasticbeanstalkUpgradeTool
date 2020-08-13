@@ -1,0 +1,16 @@
+{
+  "name": "eb-update",
+  "version": "1.0.0",
+  "description": "Automates the managed update function with beanstalker script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vivintsolar/beanstalk": "^1.0.1",
+    "node-cron": "^2.0.3"
+    "upgrade": "upgrade.sh"
+  }
+}
